@@ -20,7 +20,7 @@ Venha se juntar a Goku nesta empolgante aventura em Dragon Ball Run!
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório, fazer melhorias e enviar uma solicitação pull. Juntos, podemos tornar Dragon Ball Run ainda mais incrível!
 
-![goku](https://github.com/ThiagoResende88/Dragon_Ball_Run/assets/117482959/aad3673c-b9e1-4567-a740-97c7076a862b)
+![goku](https://github.com/ThiagoResende88/Dragon_Ball_Run/assets/117482959/dc068181-e676-432b-a7c3-ff9c282d4430)
 
 ![esfera](https://github.com/ThiagoResende88/Dragon_Ball_Run/assets/117482959/4cc9ee8c-ef6e-4786-95b0-80b5d9defc07)
 
