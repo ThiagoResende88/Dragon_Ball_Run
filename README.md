@@ -1,3 +1,5 @@
+![Dragon_Ball_Run](https://github.com/ThiagoResende88/Dragon_Ball_Run/assets/117482959/7e89c2c4-db34-4a4a-935a-88e511817d62)
+
 ## Dragon Ball Run
 
 Bem-vindo ao Dragon Ball Run, um jogo simples e envolvente desenvolvido utilizando a plataforma Construct 3.
@@ -25,3 +27,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste re
 ![esfera](https://github.com/ThiagoResende88/Dragon_Ball_Run/assets/117482959/4cc9ee8c-ef6e-4786-95b0-80b5d9defc07)
 
 ![boo](https://github.com/ThiagoResende88/Dragon_Ball_Run/assets/117482959/206b60ca-6e5f-470f-abf0-cfea36f49fa4)
+
+
