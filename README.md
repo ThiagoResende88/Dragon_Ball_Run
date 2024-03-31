@@ -6,6 +6,8 @@ Bem-vindo ao Dragon Ball Run, um jogo simples e envolvente desenvolvido utilizan
 
 ## Link: https://dragonballrun.onrender.com/
 
+## BD_Firebase Server - Link encurtado: https://encurtador.com.br/euUZ6
+
 ### Sobre o Jogo
 Dragon Ball Run é uma experiência divertida e emocionante onde os jogadores assumem o papel de Goku em uma busca para coletar as sagradas Esferas do Dragão. Com controles intuitivos e mecânicas de jogo acessíveis, Dragon Ball Run é adequado para jogadores de todas as idades e níveis de habilidade.
 
